@@ -14,13 +14,18 @@
 		3457F4C418C487F5001C4400 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 3457F4C318C487F5001C4400 /* main.m */; };
 		3457F4C818C487F5001C4400 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 3457F4C718C487F5001C4400 /* AppDelegate.m */; };
 		3457F4CB18C487F5001C4400 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3457F4C918C487F5001C4400 /* Main.storyboard */; };
-		3457F4CE18C487F5001C4400 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3457F4CD18C487F5001C4400 /* ViewController.m */; };
 		3457F4D018C487F5001C4400 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3457F4CF18C487F5001C4400 /* Images.xcassets */; };
 		3457F4D718C487F5001C4400 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3457F4D618C487F5001C4400 /* XCTest.framework */; };
 		3457F4D818C487F5001C4400 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3457F4B718C487F4001C4400 /* Foundation.framework */; };
 		3457F4D918C487F5001C4400 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3457F4BB18C487F5001C4400 /* UIKit.framework */; };
 		3457F4E118C487F5001C4400 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 3457F4DF18C487F5001C4400 /* InfoPlist.strings */; };
 		3457F4E318C487F5001C4400 /* TestAppTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3457F4E218C487F5001C4400 /* TestAppTests.m */; };
+		3457F4EE18C4883C001C4400 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3457F4ED18C4883C001C4400 /* ViewController.m */; };
+		3457F4F118C4886F001C4400 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3457F4F018C4886F001C4400 /* MainWindow.xib */; };
+		3457F4F518C488CC001C4400 /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3457F4F318C488CC001C4400 /* MainViewController.m */; };
+		3457F4F618C488CC001C4400 /* MainViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3457F4F418C488CC001C4400 /* MainViewController.xib */; };
+		3457F4F918C49A75001C4400 /* RoomCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 3457F4F818C49A75001C4400 /* RoomCell.m */; };
+		3457F4FB18C49A85001C4400 /* RoomCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3457F4FA18C49A85001C4400 /* RoomCell.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,14 +50,21 @@
 		3457F4C618C487F5001C4400 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		3457F4C718C487F5001C4400 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		3457F4CA18C487F5001C4400 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		3457F4CC18C487F5001C4400 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		3457F4CD18C487F5001C4400 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		3457F4CF18C487F5001C4400 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		3457F4D518C487F5001C4400 /* TestAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3457F4D618C487F5001C4400 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
 		3457F4DE18C487F5001C4400 /* TestAppTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TestAppTests-Info.plist"; sourceTree = "<group>"; };
 		3457F4E018C487F5001C4400 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		3457F4E218C487F5001C4400 /* TestAppTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestAppTests.m; sourceTree = "<group>"; };
+		3457F4EC18C4883C001C4400 /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ViewController.h; path = Class/ViewController.h; sourceTree = "<group>"; };
+		3457F4ED18C4883C001C4400 /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ViewController.m; path = Class/ViewController.m; sourceTree = "<group>"; };
+		3457F4F018C4886F001C4400 /* MainWindow.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
+		3457F4F218C488CC001C4400 /* MainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MainViewController.h; path = Class/MainViewController.h; sourceTree = "<group>"; };
+		3457F4F318C488CC001C4400 /* MainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MainViewController.m; path = Class/MainViewController.m; sourceTree = "<group>"; };
+		3457F4F418C488CC001C4400 /* MainViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = MainViewController.xib; path = Class/MainViewController.xib; sourceTree = "<group>"; };
+		3457F4F718C49A75001C4400 /* RoomCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = RoomCell.h; path = Class/RoomCell.h; sourceTree = "<group>"; };
+		3457F4F818C49A75001C4400 /* RoomCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = RoomCell.m; path = Class/RoomCell.m; sourceTree = "<group>"; };
+		3457F4FA18C49A85001C4400 /* RoomCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = RoomCell.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,11 +124,17 @@
 		3457F4BD18C487F5001C4400 /* TestApp */ = {
 			isa = PBXGroup;
 			children = (
+				3457F4F718C49A75001C4400 /* RoomCell.h */,
+				3457F4F818C49A75001C4400 /* RoomCell.m */,
+				3457F4FA18C49A85001C4400 /* RoomCell.xib */,
+				3457F4F218C488CC001C4400 /* MainViewController.h */,
+				3457F4F318C488CC001C4400 /* MainViewController.m */,
+				3457F4F418C488CC001C4400 /* MainViewController.xib */,
+				3457F4EC18C4883C001C4400 /* ViewController.h */,
+				3457F4ED18C4883C001C4400 /* ViewController.m */,
 				3457F4C618C487F5001C4400 /* AppDelegate.h */,
 				3457F4C718C487F5001C4400 /* AppDelegate.m */,
 				3457F4C918C487F5001C4400 /* Main.storyboard */,
-				3457F4CC18C487F5001C4400 /* ViewController.h */,
-				3457F4CD18C487F5001C4400 /* ViewController.m */,
 				3457F4CF18C487F5001C4400 /* Images.xcassets */,
 				3457F4BE18C487F5001C4400 /* Supporting Files */,
 			);
@@ -126,6 +144,7 @@
 		3457F4BE18C487F5001C4400 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				3457F4EF18C4885F001C4400 /* Main Window */,
 				3457F4BF18C487F5001C4400 /* TestApp-Info.plist */,
 				3457F4C018C487F5001C4400 /* InfoPlist.strings */,
 				3457F4C318C487F5001C4400 /* main.m */,
@@ -150,6 +169,15 @@
 				3457F4DF18C487F5001C4400 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		3457F4EF18C4885F001C4400 /* Main Window */ = {
+			isa = PBXGroup;
+			children = (
+				3457F4F018C4886F001C4400 /* MainWindow.xib */,
+			);
+			name = "Main Window";
+			path = "Supporting Files/Main Window";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -228,7 +256,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3457F4F118C4886F001C4400 /* MainWindow.xib in Resources */,
 				3457F4D018C487F5001C4400 /* Images.xcassets in Resources */,
+				3457F4FB18C49A85001C4400 /* RoomCell.xib in Resources */,
+				3457F4F618C488CC001C4400 /* MainViewController.xib in Resources */,
 				3457F4C218C487F5001C4400 /* InfoPlist.strings in Resources */,
 				3457F4CB18C487F5001C4400 /* Main.storyboard in Resources */,
 			);
@@ -249,9 +280,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3457F4CE18C487F5001C4400 /* ViewController.m in Sources */,
+				3457F4EE18C4883C001C4400 /* ViewController.m in Sources */,
 				3457F4C818C487F5001C4400 /* AppDelegate.m in Sources */,
 				3457F4C418C487F5001C4400 /* main.m in Sources */,
+				3457F4F518C488CC001C4400 /* MainViewController.m in Sources */,
+				3457F4F918C49A75001C4400 /* RoomCell.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -378,6 +411,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CLANG_ENABLE_OBJC_ARC = NO;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "TestApp/TestApp-Prefix.pch";
 				INFOPLIST_FILE = "TestApp/TestApp-Info.plist";
@@ -391,6 +425,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CLANG_ENABLE_OBJC_ARC = NO;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "TestApp/TestApp-Prefix.pch";
 				INFOPLIST_FILE = "TestApp/TestApp-Info.plist";
