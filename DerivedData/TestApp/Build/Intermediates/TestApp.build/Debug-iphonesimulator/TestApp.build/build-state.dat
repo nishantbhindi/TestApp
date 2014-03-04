@@ -1,0 +1,819 @@
+TTestApp
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/PrecompiledHeaders/TestApp-Prefix-ctcclmsgoepzheceuazuzytpuhns/TestApp-Prefix.pch.pch TestApp/TestApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/ViewController.o /Users/webinfoways/Desktop/TestApp/TestApp/Class/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/AppDelegate.o /Users/webinfoways/Desktop/TestApp/TestApp/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/main.o /Users/webinfoways/Desktop/TestApp/TestApp/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/MainViewController.o /Users/webinfoways/Desktop/TestApp/TestApp/Class/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/RoomCell.o /Users/webinfoways/Desktop/TestApp/TestApp/Class/RoomCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Products/Debug-iphonesimulator/TestApp.app/TestApp normal i386
+cCompileXIB /Users/webinfoways/Desktop/TestApp/TestApp/Supporting\ Files/Main\ Window/MainWindow.xib
+cCompileXIB /Users/webinfoways/Desktop/TestApp/TestApp/RoomCell.xib
+cCompileXIB /Users/webinfoways/Desktop/TestApp/TestApp/Class/MainViewController.xib
+cCopyStringsFile /Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Products/Debug-iphonesimulator/TestApp.app/en.lproj/InfoPlist.strings TestApp/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/webinfoways/Desktop/TestApp/TestApp/Base.lproj/Main.storyboard
+cCompileAssetCatalog /Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Products/Debug-iphonesimulator/TestApp.app /Users/webinfoways/Desktop/TestApp/TestApp/Images.xcassets
+cProcessInfoPlistFile /Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Products/Debug-iphonesimulator/TestApp.app/Info.plist /Users/webinfoways/Desktop/TestApp/TestApp/TestApp-Info.plist
+cGenerateDSYMFile /Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Products/Debug-iphonesimulator/TestApp.app.dSYM /Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Products/Debug-iphonesimulator/TestApp.app/TestApp
+cTouch /Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Products/Debug-iphonesimulator/TestApp.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c0000000052F0E4F40000000000000176
+t1391518964
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c00000000523ACEC200000000000003B5
+t1379585730
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000052F0E47A00000000000001A0
+t1391518842
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c0000000052F0E47C00000000005838D0
+t1391518844
+s5781712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c0000000052F0E47C00000000005B82A0
+t1391518844
+s5997216
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000052F0E47C0000000000445870
+t1391518844
+s4479088
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c0000000052F0E47D0000000000355050
+t1391518845
+s3493968
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c0000000052F0E47D00000000002F6810
+t1391518845
+s3106832
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c0000000052F0E47C000000000004B000
+t1391518844
+s307200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000052F0E47E000000000088C680
+t1391518846
+s8963712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c0000000052F0E47E0000000000037620
+t1391518846
+s226848
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c0000000052F0E47F00000000004848F0
+t1391518847
+s4737264
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+c0000000052F0E47E00000000001290B0
+t1391518846
+s1216688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000052F0E4830000000001DB9910
+t1391518851
+s31168784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c0000000052F0E48500000000002B9F20
+t1391518853
+s2858784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+c00000000523ACEF10000000000002338
+t1379585777
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+c0000000052F0E487000000000008D300
+t1391518855
+s578304
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+c00000000523ACEF2000000000038ACB0
+t1379585778
+s3714224
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+c0000000052F0AE3900000000000141F0
+t1391504953
+s82416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+c00000000523ACEF20000000000013500
+t1379585778
+s79104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c00000000523ACEF20000000000033BA0
+t1379585778
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c00000000523ACEF2000000000001CFB0
+t1379585778
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+c00000000523ACEF2000000000001B2B0
+t1379585778
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+c0000000052F0E48700000000000632B0
+t1391518855
+s406192
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+c00000000523ACEF20000000000008880
+t1379585778
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+c0000000052F0E4870000000000015080
+t1391518855
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+c00000000523ACEF200000000000230E0
+t1379585778
+s143584
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+c00000000523ACEF2000000000000E380
+t1379585778
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+c00000000523ACEF20000000000087200
+t1379585778
+s553472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+c00000000523ACEF200000000000171A0
+t1379585778
+s94624
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c00000000523ACEF20000000000039C10
+t1379585778
+s236560
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c00000000523ACEF2000000000000B0B0
+t1379585778
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+c00000000523ACEF30000000000167FE0
+t1379585779
+s1474528
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c0000000052F0E48700000000000106A0
+t1391518855
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c0000000052F0E487000000000001CE40
+t1391518855
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+c00000000523ACEF20000000000071040
+t1379585778
+s462912
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+c0000000052F0E4870000000000067A10
+t1391518855
+s424464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+c00000000523ACEF2000000000001BAD0
+t1379585778
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+c0000000052F0E4880000000000088BA0
+t1391518856
+s560032
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c00000000523ACF000000000000000AC9
+t1379585792
+s2761
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+c0000000052F0E4C10000000000005004
+t1391518913
+s20484
+
+N/Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/PrecompiledHeaders/TestApp-Prefix-ctcclmsgoepzheceuazuzytpuhns/TestApp-Prefix.pch.pch
+t1393840760
+s107584
+
+N/Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/AppDelegate.o
+t1393858520
+s76108
+
+N/Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/MainViewController.o
+t1393858519
+s107772
+
+N/Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/RoomCell.o
+t1393845737
+s53444
+
+N/Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/TestApp.LinkFileList
+c00000000531465E5000000000000031B
+t1393845733
+s795
+
+N/Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/ViewController.o
+t1393840760
+s41004
+
+N/Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/main.o
+t1393840760
+s3508
+
+N/Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/assetcatalog_dependencies.txt
+t1393840769
+s422
+
+N/Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/assetcatalog_generated_info.plist
+t1393840769
+s525
+
+N/Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Products/Debug-iphonesimulator/TestApp.app
+t1393858520
+s408
+
+N/Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Products/Debug-iphonesimulator/TestApp.app.dSYM
+t1393858449
+s102
+
+N/Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Products/Debug-iphonesimulator/TestApp.app/Base.lproj/Main.storyboardc
+t1393840775
+s170
+
+N/Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Products/Debug-iphonesimulator/TestApp.app/Info.plist
+t1393840775
+s999
+
+N/Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Products/Debug-iphonesimulator/TestApp.app/MainViewController.nib
+t1393849626
+s4761
+
+N/Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Products/Debug-iphonesimulator/TestApp.app/MainWindow.nib
+t1393840766
+s1038
+
+N/Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Products/Debug-iphonesimulator/TestApp.app/PkgInfo
+t1393840775
+s8
+
+N/Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Products/Debug-iphonesimulator/TestApp.app/RoomCell.nib
+t1393849626
+s3103
+
+N/Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Products/Debug-iphonesimulator/TestApp.app/TestApp
+t1393858520
+s55260
+
+N/Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Products/Debug-iphonesimulator/TestApp.app/en.lproj/InfoPlist.strings
+t1393840762
+s42
+
+N/Users/webinfoways/Desktop/TestApp/TestApp/AppDelegate.h
+c000000005314516100000000000001BC
+t1393840481
+s444
+
+N/Users/webinfoways/Desktop/TestApp/TestApp/AppDelegate.m
+c00000000531451FD0000000000000953
+t1393840637
+s2387
+
+N/Users/webinfoways/Desktop/TestApp/TestApp/Base.lproj/Main.storyboard
+c00000000531450750000000000000630
+t1393840245
+s1584
+
+N/Users/webinfoways/Desktop/TestApp/TestApp/Class/MainViewController.h
+c00000000531497AB0000000000000587
+t1393858475
+s1415
+
+N/Users/webinfoways/Desktop/TestApp/TestApp/Class/MainViewController.m
+c00000000531497D60000000000002D0D
+t1393858518
+s11533
+
+N/Users/webinfoways/Desktop/TestApp/TestApp/Class/MainViewController.xib
+c00000000531471800000000000003648
+t1393848704
+s13896
+
+N/Users/webinfoways/Desktop/TestApp/TestApp/Class/RoomCell.h
+c00000000531464E50000000000000137
+t1393845477
+s311
+
+N/Users/webinfoways/Desktop/TestApp/TestApp/Class/RoomCell.m
+c00000000531464FF00000000000002C9
+t1393845503
+s713
+
+N/Users/webinfoways/Desktop/TestApp/TestApp/Class/ViewController.h
+c000000005314507500000000000000D1
+t1393840245
+s209
+
+N/Users/webinfoways/Desktop/TestApp/TestApp/Class/ViewController.m
+c000000005314507500000000000001E7
+t1393840245
+s487
+
+N/Users/webinfoways/Desktop/TestApp/TestApp/Images.xcassets
+c00000000531450750000000000000088
+t1393840245
+s136
+
+N/Users/webinfoways/Desktop/TestApp/TestApp/RoomCell.xib
+c00000000531466DA0000000000001521
+t1393845978
+s5409
+
+N/Users/webinfoways/Desktop/TestApp/TestApp/Supporting Files/Main Window/MainWindow.xib
+c0000000053145232000000000000060B
+t1393840690
+s1547
+
+N/Users/webinfoways/Desktop/TestApp/TestApp/TestApp-Info.plist
+c000000005314510000000000000004BF
+t1393840384
+s1215
+
+N/Users/webinfoways/Desktop/TestApp/TestApp/TestApp-Prefix.pch
+c00000000531450750000000000000158
+t1393840245
+s344
+
+N/Users/webinfoways/Desktop/TestApp/TestApp/en.lproj/InfoPlist.strings
+c0000000053145075000000000000002D
+t1393840245
+s45
+
+N/Users/webinfoways/Desktop/TestApp/TestApp/main.m
+c0000000053145075000000000000014B
+t1393840245
+s331
+
+N/usr/lib/libSystem.B.dylib
+c0000000052F0AE23000000000000E6D0
+t1391504931
+s59088
+
+N/usr/lib/system/libcache.dylib
+c0000000052F0AE390000000000012A00
+t1391504953
+s76288
+
+N/usr/lib/system/libcommonCrypto.dylib
+c0000000052F0AE11000000000002E320
+t1391504913
+s189216
+
+N/usr/lib/system/libcompiler_rt.dylib
+c0000000052F0AE230000000000021860
+t1391504931
+s137312
+
+N/usr/lib/system/libcopyfile.dylib
+c0000000052F0AE37000000000001B620
+t1391504951
+s112160
+
+N/usr/lib/system/libcorecrypto.dylib
+c0000000052F0AE3700000000000BD920
+t1391504951
+s776480
+
+N/usr/lib/system/libdyld.dylib
+c0000000052F0AE3900000000000141F0
+t1391504953
+s82416
+
+N/usr/lib/system/libkeymgr.dylib
+c0000000052F0AE38000000000000A120
+t1391504952
+s41248
+
+N/usr/lib/system/liblaunch.dylib
+c0000000052F0AE38000000000001D550
+t1391504952
+s120144
+
+N/usr/lib/system/libmacho.dylib
+c0000000052F0AE370000000000014EE0
+t1391504951
+s85728
+
+N/usr/lib/system/libquarantine.dylib
+c0000000052F0AE3B0000000000010380
+t1391504955
+s66432
+
+N/usr/lib/system/libremovefile.dylib
+c0000000052F0AE3B000000000000C4C0
+t1391504955
+s50368
+
+N/usr/lib/system/libsystem_asl.dylib
+c0000000052F0AE3900000000000357A0
+t1391504953
+s219040
+
+N/usr/lib/system/libsystem_blocks.dylib
+c0000000052F0AE39000000000000C070
+t1391504953
+s49264
+
+N/usr/lib/system/libsystem_c.dylib
+c0000000052F0AE230000000000168C00
+t1391504931
+s1477632
+
+N/usr/lib/system/libsystem_configuration.dylib
+c0000000052F0AE370000000000010630
+t1391504951
+s67120
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c0000000052F0AE3A000000000001DF10
+t1391504954
+s122640
+
+N/usr/lib/system/libsystem_info.dylib
+c0000000052F0AE230000000000075B00
+t1391504931
+s482048
+
+N/usr/lib/system/libsystem_kernel.dylib
+c0000000052F0AE23000000000007CC70
+t1391504931
+s511088
+
+N/usr/lib/system/libsystem_m.dylib
+c0000000052F0AE2300000000000766C0
+t1391504931
+s485056
+
+N/usr/lib/system/libsystem_malloc.dylib
+c0000000052F0AE390000000000044DC0
+t1391504953
+s282048
+
+N/usr/lib/system/libsystem_notify.dylib
+c0000000052F0AE230000000000021FA0
+t1391504931
+s139168
+
+N/usr/lib/system/libsystem_platform.dylib
+c0000000052F0AE39000000000002D900
+t1391504953
+s186624
+
+N/usr/lib/system/libsystem_pthread.dylib
+c0000000052F0AE39000000000001E570
+t1391504953
+s124272
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c0000000052F0AE2C000000000000CC70
+t1391504940
+s52336
+
+N/usr/lib/system/libunc.dylib
+c0000000052F0AE31000000000000C3F0
+t1391504945
+s50160
+
+N/usr/lib/system/libunwind.dylib
+c0000000052F0AE3900000000000199F0
+t1391504953
+s104944
+
+CBuild AST from /Users/webinfoways/Desktop/TestApp/TestApp/AppDelegate.m
+r0
+
+CBuild AST from /Users/webinfoways/Desktop/TestApp/TestApp/Class/MainViewController.m
+r0
+
+CBuild AST from /Users/webinfoways/Desktop/TestApp/TestApp/Class/RoomCell.m
+r0
+
+CBuild AST from /Users/webinfoways/Desktop/TestApp/TestApp/Class/ViewController.m
+r0
+
+CBuild AST from /Users/webinfoways/Desktop/TestApp/TestApp/ViewController.m
+r0
+
+CBuild AST from /Users/webinfoways/Desktop/TestApp/TestApp/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies91b7c857cfc4b841^7b11c957cfc4b841^---0#1#1#--18"Check dependencies36"0F3335F5-2312-44C7-878C-A0C6E837E2BC-
+
+CCompileAssetCatalog /Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Products/Debug-iphonesimulator/TestApp.app /Users/webinfoways/Desktop/TestApp/TestApp/Images.xcassets
+s415533565.220251
+e415533569.529520
+r1
+xCompileAssetCatalog
+x/Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Products/Debug-iphonesimulator/TestApp.app
+x/Users/webinfoways/Desktop/TestApp/TestApp/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Products/Debug-iphonesimulator/TestApp.app/LaunchImage-700-568h@2x.png
+o/Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Products/Debug-iphonesimulator/TestApp.app/Assets.car
+o/Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"CompileAssetCatalog DerivedData/TestApp/Build/Products/Debug-iphonesimulator/TestApp.app TestApp/Images.xcassets112"CompileAssetCatalog DerivedData/TestApp/Build/Products/Debug-iphonesimulator/TestApp.app TestApp/Images.xcassets7f8538fd89c4b841^299287018ac4b841^-450"/* com.apple.actool.compilation-results *//Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Products/Debug-iphonesimulator/TestApp.app/LaunchImage-700-568h@2x.png/Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Products/Debug-iphonesimulator/TestApp.app/Assets.car/Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@66"file:///Users/webinfoways/Desktop/TestApp/TestApp/Images.xcassets/0000000000000000^1198"CompileAssetCatalog DerivedData/TestApp/Build/Products/Debug-iphonesimulator/TestApp.app TestApp/Images.xcassets    cd /Users/webinfoways/Desktop/TestApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.0 --target-device iphone --compress-pngs --compile /Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Products/Debug-iphonesimulator/TestApp.app /Users/webinfoways/Desktop/TestApp/TestApp/Images.xcassets36"44BC3534-4C8D-4208-B94F-FE8F3B47677D-
+bD162A11C-4440-4718-95F2-F7E490842E7D
+
+CCompileC DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/AppDelegate.o /Users/webinfoways/Desktop/TestApp/TestApp/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415551319.785826
+e415551320.021580
+r1
+xCompileC
+xDerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/AppDelegate.o
+x/Users/webinfoways/Desktop/TestApp/TestApp/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/webinfoways/Desktop/TestApp/TestApp/AppDelegate.m
+d/Users/webinfoways/Desktop/TestApp/TestApp/AppDelegate.h
+d/Users/webinfoways/Desktop/TestApp/TestApp/Class/MainViewController.h
+d/Users/webinfoways/Desktop/TestApp/TestApp/Class/RoomCell.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Compile /Users/webinfoways/Desktop/TestApp/TestApp/AppDelegate.m222"CompileC DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/AppDelegate.o TestApp/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerbe4bc957cfc4b841^48890558cfc4b841^---0#0#1#-19%DVTDocumentLocation2@63"file:///Users/webinfoways/Desktop/TestApp/TestApp/AppDelegate.m0000000000000000^3830"CompileC DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/AppDelegate.o TestApp/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/webinfoways/Desktop/TestApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/webinfoways/Desktop/TestApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/TestApp-generated-files.hmap -I/Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/TestApp-own-target-headers.hmap -I/Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/TestApp-all-target-headers.hmap -iquote /Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/TestApp-project-headers.hmap -I/Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/DerivedSources/i386 -I/Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/DerivedSources -F/Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Products/Debug-iphonesimulator -include /Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/PrecompiledHeaders/TestApp-Prefix-ctcclmsgoepzheceuazuzytpuhns/TestApp-Prefix.pch -MMD -MT dependencies -MF /Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/AppDelegate.dia -c /Users/webinfoways/Desktop/TestApp/TestApp/AppDelegate.m -o /Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/AppDelegate.o36"8F063B17-BDCB-4B00-A9D8-828C24ECCD2F-
+b27B546D7-BD07-4010-A905-CF2CA21577EC
+
+CCompileC DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/MainViewController.o /Users/webinfoways/Desktop/TestApp/TestApp/Class/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415551319.786176
+e415551319.982834
+r1
+xCompileC
+xDerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/MainViewController.o
+x/Users/webinfoways/Desktop/TestApp/TestApp/Class/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/webinfoways/Desktop/TestApp/TestApp/Class/MainViewController.m
+d/Users/webinfoways/Desktop/TestApp/TestApp/Class/MainViewController.h
+d/Users/webinfoways/Desktop/TestApp/TestApp/Class/RoomCell.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/webinfoways/Desktop/TestApp/TestApp/Class/MainViewController.m242"CompileC DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/MainViewController.o TestApp/Class/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler535cc957cfc4b841^359bfb57cfc4b841^---0#0#1#-19%DVTDocumentLocation2@76"file:///Users/webinfoways/Desktop/TestApp/TestApp/Class/MainViewController.m0000000000000000^3884"CompileC DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/MainViewController.o TestApp/Class/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/webinfoways/Desktop/TestApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/webinfoways/Desktop/TestApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/TestApp-generated-files.hmap -I/Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/TestApp-own-target-headers.hmap -I/Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/TestApp-all-target-headers.hmap -iquote /Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/TestApp-project-headers.hmap -I/Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/DerivedSources/i386 -I/Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/DerivedSources -F/Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Products/Debug-iphonesimulator -include /Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/PrecompiledHeaders/TestApp-Prefix-ctcclmsgoepzheceuazuzytpuhns/TestApp-Prefix.pch -MMD -MT dependencies -MF /Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/MainViewController.d --serialize-diagnostics /Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/MainViewController.dia -c /Users/webinfoways/Desktop/TestApp/TestApp/Class/MainViewController.m -o /Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/MainViewController.o36"02EA98E1-C8F1-4CB6-AC80-A05F3AF8EF42-
+b27B546D7-BD07-4010-A905-CF2CA21577EC
+
+CCompileC DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/RoomCell.o /Users/webinfoways/Desktop/TestApp/TestApp/Class/RoomCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415538533.779051
+e415538537.577127
+r1
+xCompileC
+xDerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/RoomCell.o
+x/Users/webinfoways/Desktop/TestApp/TestApp/Class/RoomCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/webinfoways/Desktop/TestApp/TestApp/Class/RoomCell.m
+d/Users/webinfoways/Desktop/TestApp/TestApp/Class/RoomCell.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compile /Users/webinfoways/Desktop/TestApp/TestApp/Class/RoomCell.m222"CompileC DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/RoomCell.o TestApp/Class/RoomCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler7498c7659dc4b841^0ebf93699dc4b841^---0#0#1#-19%DVTDocumentLocation2@66"file:///Users/webinfoways/Desktop/TestApp/TestApp/Class/RoomCell.m0000000000000000^3824"CompileC DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/RoomCell.o TestApp/Class/RoomCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/webinfoways/Desktop/TestApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/webinfoways/Desktop/TestApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/TestApp-generated-files.hmap -I/Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/TestApp-own-target-headers.hmap -I/Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/TestApp-all-target-headers.hmap -iquote /Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/TestApp-project-headers.hmap -I/Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/DerivedSources/i386 -I/Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/DerivedSources -F/Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Products/Debug-iphonesimulator -include /Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/PrecompiledHeaders/TestApp-Prefix-ctcclmsgoepzheceuazuzytpuhns/TestApp-Prefix.pch -MMD -MT dependencies -MF /Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/RoomCell.d --serialize-diagnostics /Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/RoomCell.dia -c /Users/webinfoways/Desktop/TestApp/TestApp/Class/RoomCell.m -o /Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/RoomCell.o36"353CA428-89F5-4A2E-BE03-98EA1AF75E88-
+bEC6FAA30-C6EE-4CC7-8B0B-95272727341D
+
+CCompileC DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/ViewController.o /Users/webinfoways/Desktop/TestApp/TestApp/Class/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415533560.192395
+e415533560.281037
+r1
+xCompileC
+xDerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/ViewController.o
+x/Users/webinfoways/Desktop/TestApp/TestApp/Class/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/webinfoways/Desktop/TestApp/TestApp/Class/ViewController.m
+d/Users/webinfoways/Desktop/TestApp/TestApp/Class/ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/webinfoways/Desktop/TestApp/TestApp/Class/ViewController.m234"CompileC DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/ViewController.o TestApp/Class/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerbe6a31f889c4b841^02f447f889c4b841^---0#0#1#-19%DVTDocumentLocation2@72"file:///Users/webinfoways/Desktop/TestApp/TestApp/Class/ViewController.m0000000000000000^3860"CompileC DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/ViewController.o TestApp/Class/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/webinfoways/Desktop/TestApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/webinfoways/Desktop/TestApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/TestApp-generated-files.hmap -I/Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/TestApp-own-target-headers.hmap -I/Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/TestApp-all-target-headers.hmap -iquote /Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/TestApp-project-headers.hmap -I/Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/DerivedSources/i386 -I/Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/DerivedSources -F/Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Products/Debug-iphonesimulator -include /Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/PrecompiledHeaders/TestApp-Prefix-ctcclmsgoepzheceuazuzytpuhns/TestApp-Prefix.pch -MMD -MT dependencies -MF /Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/ViewController.dia -c /Users/webinfoways/Desktop/TestApp/TestApp/Class/ViewController.m -o /Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/ViewController.o36"638116E2-8843-4BCE-8F39-DCCC33EF5806-
+bD162A11C-4440-4718-95F2-F7E490842E7D
+
+CCompileC DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/ViewController.o /Users/webinfoways/Desktop/TestApp/TestApp/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/main.o /Users/webinfoways/Desktop/TestApp/TestApp/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415533560.281338
+e415533560.313029
+r1
+xCompileC
+xDerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/main.o
+x/Users/webinfoways/Desktop/TestApp/TestApp/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/webinfoways/Desktop/TestApp/TestApp/main.m
+d/Users/webinfoways/Desktop/TestApp/TestApp/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Compile /Users/webinfoways/Desktop/TestApp/TestApp/main.m208"CompileC DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/main.o TestApp/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler5c1d48f889c4b841^e62450f889c4b841^---0#0#1#-19%DVTDocumentLocation2@56"file:///Users/webinfoways/Desktop/TestApp/TestApp/main.m0000000000000000^3788"CompileC DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/main.o TestApp/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/webinfoways/Desktop/TestApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/webinfoways/Desktop/TestApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/TestApp-generated-files.hmap -I/Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/TestApp-own-target-headers.hmap -I/Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/TestApp-all-target-headers.hmap -iquote /Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/TestApp-project-headers.hmap -I/Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/DerivedSources/i386 -I/Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/DerivedSources -F/Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Products/Debug-iphonesimulator -include /Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/PrecompiledHeaders/TestApp-Prefix-ctcclmsgoepzheceuazuzytpuhns/TestApp-Prefix.pch -MMD -MT dependencies -MF /Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/main.dia -c /Users/webinfoways/Desktop/TestApp/TestApp/main.m -o /Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/main.o36"C5E88054-A9B6-452F-A5B9-EABB6551D13A-
+bD162A11C-4440-4718-95F2-F7E490842E7D
+
+CCompileStoryboard /Users/webinfoways/Desktop/TestApp/TestApp/Base.lproj/Main.storyboard
+s415533562.648452
+e415533575.520365
+r1
+xCompileStoryboard
+x/Users/webinfoways/Desktop/TestApp/TestApp/Base.lproj/Main.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"CompileStoryboard TestApp/Base.lproj/Main.storyboard52"CompileStoryboard TestApp/Base.lproj/Main.storyboard0e16a6fa89c4b841^2a3785078ac4b841^---0#0#1#-19%DVTDocumentLocation2@76"file:///Users/webinfoways/Desktop/TestApp/TestApp/Base.lproj/Main.storyboard0000000000000000^847"CompileStoryboard TestApp/Base.lproj/Main.storyboard    cd /Users/webinfoways/Desktop/TestApp    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Products/Debug-iphonesimulator/TestApp.app/Base.lproj/Main.storyboardc /Users/webinfoways/Desktop/TestApp/TestApp/Base.lproj/Main.storyboard36"AAF02FD1-5D77-4AFE-8B64-E018C9D5542D-
+bD162A11C-4440-4718-95F2-F7E490842E7D
+
+CCompileXIB /Users/webinfoways/Desktop/TestApp/TestApp/Class/MainViewController.xib
+s415542401.111380
+e415542426.931351
+r1
+xCompileXIB
+x/Users/webinfoways/Desktop/TestApp/TestApp/Class/MainViewController.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compiling /Users/webinfoways/Desktop/TestApp/TestApp/Class/MainViewController.xib47"CompileXIB TestApp/Class/MainViewController.xibe0a11c81acc4b841^596dee9aacc4b841^---0#0#1#-19%DVTDocumentLocation2@78"file:///Users/webinfoways/Desktop/TestApp/TestApp/Class/MainViewController.xib0000000000000000^789"CompileXIB TestApp/Class/MainViewController.xib    cd /Users/webinfoways/Desktop/TestApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Products/Debug-iphonesimulator/TestApp.app/MainViewController.nib /Users/webinfoways/Desktop/TestApp/TestApp/Class/MainViewController.xib36"A5E9150C-B32C-479E-BE33-7E6AF863702F-
+bB928B636-544D-478B-B83B-E97B70C3839B
+
+CCompileXIB /Users/webinfoways/Desktop/TestApp/TestApp/RoomCell.xib
+s415542401.111118
+e415542426.919444
+r1
+xCompileXIB
+x/Users/webinfoways/Desktop/TestApp/TestApp/RoomCell.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compiling /Users/webinfoways/Desktop/TestApp/TestApp/RoomCell.xib31"CompileXIB TestApp/RoomCell.xib728c1c81acc4b841^0261eb9aacc4b841^---0#0#1#-19%DVTDocumentLocation2@62"file:///Users/webinfoways/Desktop/TestApp/TestApp/RoomCell.xib0000000000000000^747"CompileXIB TestApp/RoomCell.xib    cd /Users/webinfoways/Desktop/TestApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Products/Debug-iphonesimulator/TestApp.app/RoomCell.nib /Users/webinfoways/Desktop/TestApp/TestApp/RoomCell.xib36"E7F448E4-0F34-4854-BEEF-4E8AFB7EDC7D-
+bB928B636-544D-478B-B83B-E97B70C3839B
+
+CCompileXIB /Users/webinfoways/Desktop/TestApp/TestApp/Supporting\ Files/Main\ Window/MainWindow.xib
+s415533562.501798
+e415533566.497966
+r1
+xCompileXIB
+x/Users/webinfoways/Desktop/TestApp/TestApp/Supporting Files/Main Window/MainWindow.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compiling /Users/webinfoways/Desktop/TestApp/TestApp/Supporting Files/Main Window/MainWindow.xib64"CompileXIB TestApp/Supporting\ Files/Main\ Window/MainWindow.xib618c80fa89c4b841^49d58afe89c4b841^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/webinfoways/Desktop/TestApp/TestApp/Supporting%20Files/Main%20Window/MainWindow.xib0000000000000000^815"CompileXIB TestApp/Supporting\ Files/Main\ Window/MainWindow.xib    cd /Users/webinfoways/Desktop/TestApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Products/Debug-iphonesimulator/TestApp.app/MainWindow.nib /Users/webinfoways/Desktop/TestApp/TestApp/Supporting\ Files/Main\ Window/MainWindow.xib36"F8F256C8-F909-4E3D-94A6-9314A9FBDF33-
+bD162A11C-4440-4718-95F2-F7E490842E7D
+
+CCopyStringsFile /Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Products/Debug-iphonesimulator/TestApp.app/en.lproj/InfoPlist.strings TestApp/en.lproj/InfoPlist.strings
+s415533562.502120
+e415533562.648195
+r1
+xCopyStringsFile
+x/Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Products/Debug-iphonesimulator/TestApp.app/en.lproj/InfoPlist.strings
+xTestApp/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Copy TestApp/en.lproj/InfoPlist.strings146"CopyStringsFile DerivedData/TestApp/Build/Products/Debug-iphonesimulator/TestApp.app/en.lproj/InfoPlist.strings TestApp/en.lproj/InfoPlist.stringsed9e80fa89c4b841^f6f0a5fa89c4b841^---0#0#1#-19%DVTDocumentLocation2@76"file:///Users/webinfoways/Desktop/TestApp/TestApp/en.lproj/InfoPlist.strings0000000000000000^625"CopyStringsFile DerivedData/TestApp/Build/Products/Debug-iphonesimulator/TestApp.app/en.lproj/InfoPlist.strings TestApp/en.lproj/InfoPlist.strings    cd /Users/webinfoways/Desktop/TestApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Products/Debug-iphonesimulator/TestApp.app/en.lproj -- TestApp/en.lproj/InfoPlist.strings36"15105B51-1387-4AFB-87BF-B1022E736ADA-
+bD162A11C-4440-4718-95F2-F7E490842E7D
+
+CGenerateDSYMFile /Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Products/Debug-iphonesimulator/TestApp.app.dSYM /Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Products/Debug-iphonesimulator/TestApp.app/TestApp
+s415551320.463777
+e415551320.522614
+r1
+xGenerateDSYMFile
+x/Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Products/Debug-iphonesimulator/TestApp.app.dSYM
+x/Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Products/Debug-iphonesimulator/TestApp.app/TestApp
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Generate /Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Products/Debug-iphonesimulator/TestApp.app.dSYM167"GenerateDSYMFile DerivedData/TestApp/Build/Products/Debug-iphonesimulator/TestApp.app.dSYM DerivedData/TestApp/Build/Products/Debug-iphonesimulator/TestApp.app/TestAppb0c57658cfc4b841^14cb8558cfc4b841^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Products/Debug-iphonesimulator/TestApp.app.dSYM/0000000000000000^729"GenerateDSYMFile DerivedData/TestApp/Build/Products/Debug-iphonesimulator/TestApp.app.dSYM DerivedData/TestApp/Build/Products/Debug-iphonesimulator/TestApp.app/TestApp    cd /Users/webinfoways/Desktop/TestApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Products/Debug-iphonesimulator/TestApp.app/TestApp -o /Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Products/Debug-iphonesimulator/TestApp.app.dSYM36"0950FF20-B74E-45FD-A427-E989FDC3E31F-
+b27B546D7-BD07-4010-A905-CF2CA21577EC
+
+CLd /Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Products/Debug-iphonesimulator/TestApp.app/TestApp normal i386
+s415551320.023805
+e415551320.462047
+r1
+xLd
+x/Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Products/Debug-iphonesimulator/TestApp.app/TestApp
+xnormal
+xi386
+d/Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/TestApp.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+d/Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/ViewController.o
+d/Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/AppDelegate.o
+d/Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/main.o
+d/Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/MainViewController.o
+d/Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/RoomCell.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Link /Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Products/Debug-iphonesimulator/TestApp.app/TestApp91"Ld DerivedData/TestApp/Build/Products/Debug-iphonesimulator/TestApp.app/TestApp normal i386772c0658cfc4b841^4d497658cfc4b841^---0#0#1#--1474"Ld DerivedData/TestApp/Build/Products/Debug-iphonesimulator/TestApp.app/TestApp normal i386    cd /Users/webinfoways/Desktop/TestApp    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Products/Debug-iphonesimulator -F/Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Products/Debug-iphonesimulator -filelist /Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/TestApp.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/Objects-normal/i386/TestApp_dependency_info.dat -o /Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Products/Debug-iphonesimulator/TestApp.app/TestApp36"79EBA9F5-513C-44B1-A05C-8F5BB856CD74-
+b27B546D7-BD07-4010-A905-CF2CA21577EC
+
+CProcessInfoPlistFile /Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Products/Debug-iphonesimulator/TestApp.app/Info.plist /Users/webinfoways/Desktop/TestApp/TestApp/TestApp-Info.plist
+s415533575.521075
+e415533575.545904
+r1
+xProcessInfoPlistFile
+x/Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Products/Debug-iphonesimulator/TestApp.app/Info.plist
+x/Users/webinfoways/Desktop/TestApp/TestApp/TestApp-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Process /Users/webinfoways/Desktop/TestApp/TestApp/TestApp-Info.plist127"ProcessInfoPlistFile DerivedData/TestApp/Build/Products/Debug-iphonesimulator/TestApp.app/Info.plist TestApp/TestApp-Info.plistb47485078ac4b841^7bc18b078ac4b841^---0#0#1#-19%DVTDocumentLocation2@68"file:///Users/webinfoways/Desktop/TestApp/TestApp/TestApp-Info.plist0000000000000000^942"ProcessInfoPlistFile DerivedData/TestApp/Build/Products/Debug-iphonesimulator/TestApp.app/Info.plist TestApp/TestApp-Info.plist    cd /Users/webinfoways/Desktop/TestApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/webinfoways/Desktop/TestApp/TestApp/TestApp-Info.plist -genpkginfo /Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Products/Debug-iphonesimulator/TestApp.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/assetcatalog_generated_info.plist -o /Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Products/Debug-iphonesimulator/TestApp.app/Info.plist36"DAA706B9-D729-432E-9CA2-72AF2B8986D7-
+bD162A11C-4440-4718-95F2-F7E490842E7D
+
+CProcessPCH /Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/PrecompiledHeaders/TestApp-Prefix-ayjruuffuvuuntbvmtsvqmtvupsh/TestApp-Prefix.pch.pch TestApp/TestApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CProcessPCH /Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/PrecompiledHeaders/TestApp-Prefix-ctcclmsgoepzheceuazuzytpuhns/TestApp-Prefix.pch.pch TestApp/TestApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415533553.253294
+e415533560.191332
+r1
+xProcessPCH
+x/Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/PrecompiledHeaders/TestApp-Prefix-ctcclmsgoepzheceuazuzytpuhns/TestApp-Prefix.pch.pch
+xTestApp/TestApp-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/webinfoways/Desktop/TestApp/TestApp/TestApp-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Precompile TestApp/TestApp-Prefix.pch231"ProcessPCH DerivedData/TestApp/Build/Intermediates/PrecompiledHeaders/TestApp-Prefix-ctcclmsgoepzheceuazuzytpuhns/TestApp-Prefix.pch.pch TestApp/TestApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler035b41f189c4b841^cefe30f889c4b841^---0#0#1#-19%DVTDocumentLocation2@68"file:///Users/webinfoways/Desktop/TestApp/TestApp/TestApp-Prefix.pch0000000000000000^3687"ProcessPCH DerivedData/TestApp/Build/Intermediates/PrecompiledHeaders/TestApp-Prefix-ctcclmsgoepzheceuazuzytpuhns/TestApp-Prefix.pch.pch TestApp/TestApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/webinfoways/Desktop/TestApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/webinfoways/Desktop/TestApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/TestApp-generated-files.hmap -I/Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/TestApp-own-target-headers.hmap -I/Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/TestApp-all-target-headers.hmap -iquote /Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/TestApp-project-headers.hmap -I/Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/DerivedSources/i386 -I/Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/TestApp.build/Debug-iphonesimulator/TestApp.build/DerivedSources -F/Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/PrecompiledHeaders/TestApp-Prefix-ctcclmsgoepzheceuazuzytpuhns/TestApp-Prefix.pch.dia -MMD -MT dependencies -MF /Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/PrecompiledHeaders/TestApp-Prefix-ctcclmsgoepzheceuazuzytpuhns/TestApp-Prefix.pch.d -c /Users/webinfoways/Desktop/TestApp/TestApp/TestApp-Prefix.pch -o /Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Intermediates/PrecompiledHeaders/TestApp-Prefix-ctcclmsgoepzheceuazuzytpuhns/TestApp-Prefix.pch.pch36"8CBA2FA7-692B-418F-AB54-427B52D4F8C5-
+bD162A11C-4440-4718-95F2-F7E490842E7D
+
+CProcessPCH /Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Index/PrecompiledHeaders/TestApp-Prefix-bhdaozoivtuhbxhhkozjdaudvxzi_ast/TestApp-Prefix.pch.pch TestApp/TestApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Index/PrecompiledHeaders/TestApp-Prefix-ffdjmhdyagggpfavttihqertqacl_ast/TestApp-Prefix.pch.pch TestApp/TestApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/webinfoways/Desktop/TestApp/DerivedData/TestApp/Build/Products/Debug-iphonesimulator/TestApp.app
+r0
+
